@@ -1,0 +1,9 @@
+{
+  "name": "feedback.js",
+  "version": "1.0.0",
+  "description": "Feedback form with screenshot",
+  "main": "feedback.js",
+  "repository": "https://github.com/dkopitsa/feedback.js",
+  "author": "Denis Kopitsa <denis.kopitsa@gmail.com>",
+  "license": "MIT"
+}
